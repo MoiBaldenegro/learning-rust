@@ -1,0 +1,14 @@
+# Compiled binary:
+target/
+
+# Logs:
+*.log
+
+# OS-specific files:
+.DS_Store
+.env
+
+# IDE-specific files:
+.vscode/
+*.swp
+
